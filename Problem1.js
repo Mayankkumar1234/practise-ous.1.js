@@ -1,0 +1,1 @@
+console.log("Ducat an IT institute \n A Transformation in Education");
